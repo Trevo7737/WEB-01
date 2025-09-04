@@ -106,11 +106,12 @@ header {
 
 nav ul {
     display: flex;
+    justify-content: space-between;
     list-style: none;
 }
 
 nav ul li {
-    margin-left:30px;
+    margin-left:40px;
 }
 
 nav ul li a {
